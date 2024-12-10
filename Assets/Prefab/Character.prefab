@@ -148,7 +148,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Stop_Facing","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &9007454612498171581
 MonoBehaviour:
@@ -407,7 +408,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"STOP","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Speed","value":{"$content":0.005,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Rotation_Speed","value":{"$content":0.2,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &1335787446926909817
 MonoBehaviour:
