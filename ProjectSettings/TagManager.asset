@@ -10,14 +10,15 @@ TagManager:
   - Blue
   - Near
   - Enemy
+  - Background
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Particle
   - Water
   - UI
-  - 
+  - Background
   - 
   - 
   - 
