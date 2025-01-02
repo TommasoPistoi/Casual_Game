@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 186561525368325354}
   - component: {fileID: 7704966025848324032}
   m_Layer: 0
-  m_Name: Collected_Star
+  m_Name: Pick_Star
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
