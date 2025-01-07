@@ -36,6 +36,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/Livello13.unity
     guid: 93d1368647f764747b144ef3cc85a3e5
   - enabled: 1
-    path: Assets/Scenes/Levels/Livello15.unity
+    path: Assets/Scenes/Levels/Livello10-2.unity
     guid: 36bcb65512cb7b040865905257a8cf2e
   m_configObjects: {}
