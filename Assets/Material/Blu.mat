@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Blocco_Blu
+  m_Name: Blu
   m_Shader: {fileID: -6465566751694194690, guid: 80534ee28ecb87f4b8a9f5ec32fd99bd, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
