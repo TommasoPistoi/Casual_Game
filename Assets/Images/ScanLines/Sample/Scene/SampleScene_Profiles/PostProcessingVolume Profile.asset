@@ -18,10 +18,10 @@ MonoBehaviour:
     value: 1
   scanlineSpeed:
     overrideState: 1
-    value: -0.25
+    value: -0.71
   scanlineStrength:
     overrideState: 1
-    value: 0.045
+    value: 0.015
   scanlineCycle:
     overrideState: 1
     value: 250
