@@ -38,9 +38,9 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _Alpha: 1
+    - _Alpha: 0
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     m_Colors:
-    - _Color: {r: 0.22821656, g: 1, b: 0, a: 0}
+    - _Color: {r: 0.2282165, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
