@@ -33,15 +33,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/Tutorial/Livello7.unity
     guid: 80862ac5e142ac14da3239fc4e0615bd
   - enabled: 1
-    path: Assets/Scenes/Levels/Livelli semplici/Easy1.unity
+    path: Assets/Scenes/Levels/Livelli semplici/Livello_8.unity
     guid: e5ebc3153f0dcf64eb49ada299d6792b
   - enabled: 1
-    path: Assets/Scenes/Levels/Livelli semplici/Easy2.unity
+    path: Assets/Scenes/Levels/Livelli semplici/Livello_9.unity
     guid: baec4e7f8765d5645b6042a7efcaa914
   - enabled: 1
-    path: Assets/Scenes/Levels/Livelli complessi/Hard1.unity
+    path: Assets/Scenes/Levels/Livelli complessi/Livello10.unity
     guid: 3f9335647e2996c4fbd758712dfb557d
   - enabled: 1
-    path: Assets/Scenes/Levels/Livelli complessi/Hard2.unity
+    path: Assets/Scenes/Levels/Livelli complessi/Livello12.unity
     guid: ebb7d13d79286984b8ed44e03b1326c8
   m_configObjects: {}
