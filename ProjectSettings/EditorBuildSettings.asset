@@ -33,7 +33,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/Tutorial/Livello7.unity
     guid: 80862ac5e142ac14da3239fc4e0615bd
   - enabled: 1
-    path: Assets/Scenes/Levels/Livelli semplici/Livello_8.unity
+    path: Assets/Scenes/Levels/Livelli semplici/wdx.unity
     guid: e5ebc3153f0dcf64eb49ada299d6792b
   - enabled: 1
     path: Assets/Scenes/Levels/Livelli semplici/Livello_9.unity
