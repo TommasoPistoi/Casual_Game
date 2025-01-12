@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Scenes/Levels/Men\xF9.unity"
+    path: "Assets/Scenes/Levels/Men\xF9/Men\xF9.unity"
     guid: 23af339c459a2bb49b234986de0fbbc1
   - enabled: 1
-    path: Assets/Scenes/Levels/Level_Selection.unity
+    path: "Assets/Scenes/Levels/Men\xF9/Level_Selection.unity"
     guid: 59c09b177958eb34185a979379e100b1
   - enabled: 1
     path: Assets/Scenes/Levels/Tutorial/Livello1.unity
