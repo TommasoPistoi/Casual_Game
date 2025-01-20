@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: "Assets/Scenes/Levels/Men\xF9/Level_Selection_3.unity"
     guid: 82953264f30cf1f4abfc84835bbf2249
   - enabled: 1
+    path: "Assets/Scenes/Levels/Men\xF9/Show_Player.unity"
+    guid: 72fb7d6cce0e30047af20c3a2bebe2e1
+  - enabled: 1
+    path: "Assets/Scenes/Levels/Men\xF9/Versus_Main.unity"
+    guid: 542fefeb1030dd3468c69ec0d142f1aa
+  - enabled: 1
     path: "Assets/Scenes/Levels/Men\xF9/Men\xF9.unity"
     guid: 23af339c459a2bb49b234986de0fbbc1
   - enabled: 1
