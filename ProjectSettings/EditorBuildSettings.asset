@@ -33,6 +33,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/VS/LivelloVS4.unity
     guid: 07f092fd2fa338449840cb93c75511e0
   - enabled: 1
+    path: "Assets/Scenes/Levels/Men\xF9/Show_Winner.unity"
+    guid: dc88e407840d0c946bcc924d611c51f1
+  - enabled: 1
+    path: Assets/Scenes/Levels/VS/1_Score.unity
+    guid: f94076543496bd94ea2050190293ffa2
+  - enabled: 1
+    path: Assets/Scenes/Levels/VS/2_Score.unity
+    guid: 2550341f96124384097440483087d8b5
+  - enabled: 1
     path: "Assets/Scenes/Levels/Men\xF9/Men\xF9.unity"
     guid: 23af339c459a2bb49b234986de0fbbc1
   - enabled: 1
