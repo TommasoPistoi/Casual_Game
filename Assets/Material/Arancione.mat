@@ -25,11 +25,11 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _Alpha: 0
+    - _Alpha: 1
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     m_Colors:
-    - _Color: {r: 1, g: 0.4363277, b: 0, a: 0}
+    - _Color: {r: 1, g: 0.43632764, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &4800340756435806965
 MonoBehaviour:

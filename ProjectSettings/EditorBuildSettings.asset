@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: "Assets/Scenes/Levels/Men\xF9/StartGame.unity"
+    guid: b7193a43311a00e439b53a760f5e4862
+  - enabled: 1
     path: "Assets/Scenes/Levels/Men\xF9/Men\xF9.unity"
     guid: 23af339c459a2bb49b234986de0fbbc1
   - enabled: 1
