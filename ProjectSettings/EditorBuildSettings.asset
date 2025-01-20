@@ -21,6 +21,18 @@ EditorBuildSettings:
     path: "Assets/Scenes/Levels/Men\xF9/Versus_Main.unity"
     guid: 542fefeb1030dd3468c69ec0d142f1aa
   - enabled: 1
+    path: Assets/Scenes/Levels/VS/LivelloVS1.unity
+    guid: 556c82376749d464c93e80c18ccec6f4
+  - enabled: 1
+    path: Assets/Scenes/Levels/VS/LivelloVS2.unity
+    guid: 7d4158f7440ea4746a669d21079d9ace
+  - enabled: 1
+    path: Assets/Scenes/Levels/VS/LivelloVS3.unity
+    guid: 2a5144919e5b765438d8a3fda9011a2c
+  - enabled: 1
+    path: Assets/Scenes/Levels/VS/LivelloVS4.unity
+    guid: 07f092fd2fa338449840cb93c75511e0
+  - enabled: 1
     path: "Assets/Scenes/Levels/Men\xF9/Men\xF9.unity"
     guid: 23af339c459a2bb49b234986de0fbbc1
   - enabled: 1
