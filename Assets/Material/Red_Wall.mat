@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-302214312189343577
+--- !u!114 &-2788747210096761472
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,9 +20,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rosa
+  m_Name: Red_Wall
   m_Shader: {fileID: -6465566751694194690, guid: 326b5ed52e0dc8a41b7102ef2656cd9d, type: 3}
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 2100000, guid: 6794baa45e18cae408a5d2cb4361d368, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -37,10 +37,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats:
-    - _Alpha: 0
-    - _BUILTIN_QueueControl: 0
-    - _BUILTIN_QueueOffset: 0
+    m_Floats: []
     m_Colors:
-    - _Color: {r: 1, g: 0, b: 0.891048, a: 0}
+    - _Color: {r: 1, g: 0.078984745, b: 0, a: 0}
   m_BuildTextureStacks: []
